@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 # INFO
-## author
+## 著者
 
-## affiliation
+## 組織
 
 ## conference or year
 
-## link
+## リンク
 [arXiv]()
 [実装]()
 
